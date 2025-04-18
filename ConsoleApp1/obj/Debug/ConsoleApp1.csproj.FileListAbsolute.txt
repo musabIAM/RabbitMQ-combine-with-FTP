@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
